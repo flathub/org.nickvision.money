@@ -61,7 +61,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/nlogozzo/NickvisionMoney.git",
-                    "tag": "2023.2.0-rc1"
+                    "branch": "fix-flatpak",
+                    "commit": "af47392713aee22c8f706a82917f5878539e41e9"
                 }
             ]
         }
