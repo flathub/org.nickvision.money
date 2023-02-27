@@ -58,15 +58,15 @@
             "name": "org.nickvision.money",
             "buildsystem": "simple",
             "build-commands": [
-                "just NickvisionMoney.GNOME/ publish-self-contained /app"
+                "just NickvisionMoney.GNOME/ publish-flatpak"
             ],
             "sources": [
-                "nuget-sources.json",
                 {
                     "type": "git",
                     "url": "https://github.com/nlogozzo/NickvisionMoney.git",
-                    "commit": "2339aef"
-                }
+                    "commit": "adb94b1"
+                },
+                "nuget-sources.json"
             ]
         }
     ]
