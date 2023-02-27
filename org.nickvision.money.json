@@ -62,7 +62,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/nlogozzo/NickvisionMoney.git",
-                    "branch": "just-fixed"
+                    "commit": "5c61461"
                 }
             ]
         }
