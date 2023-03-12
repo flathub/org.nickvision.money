@@ -77,7 +77,7 @@
                     "type": "git",
                     "url": "https://github.com/nlogozzo/NickvisionMoney.git",
                     "tag": "2023.3.0-beta1"
-                }
+                },
                 "nuget-sources.json"
             ]
         }
