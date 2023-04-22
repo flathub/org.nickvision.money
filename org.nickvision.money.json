@@ -76,7 +76,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/nlogozzo/NickvisionMoney.git",
-                    "commit": "c9c94bc95daa0df070e1856a43201e44bcee3a85"
+                    "commit": "e57839276c4fb2f786713976b8b467c69a0dc068"
                 },
                 "nuget-sources.json"
             ]
