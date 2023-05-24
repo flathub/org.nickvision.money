@@ -53,7 +53,7 @@
                     "tag": "2023.5.0-rc1"
                 },
                 "cake-sources.json",
-                "../NickvisionMoney.GNOME/nuget-sources.json"
+                "nuget-sources.json"
             ]
         }
     ]
