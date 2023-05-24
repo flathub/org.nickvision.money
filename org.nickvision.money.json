@@ -48,8 +48,9 @@
             ],
             "sources": [
                 {
-                    "type": "dir",
-                    "path": ".."
+                    "type": "git",
+                    "url": "https://github.com/NickvisionApps/Denaro.git",
+                    "tag": "2023.5.0-rc1"
                 },
                 "cake-sources.json",
                 "../NickvisionMoney.GNOME/nuget-sources.json"
