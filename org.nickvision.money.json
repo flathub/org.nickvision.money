@@ -50,7 +50,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/NickvisionApps/Denaro.git",
-                    "tag": "2023.5.0"
+                    "branch": "hotfix",
+                    "commit": "8b04fa71de4c6d2ecca1805b681c79755f71e02d"
                 },
                 "cake-sources.json",
                 "nuget-sources.json"
