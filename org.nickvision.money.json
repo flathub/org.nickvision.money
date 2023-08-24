@@ -48,7 +48,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/NickvisionApps/Denaro.git",
-                    "tag": "2023.8.0-rc1"
+                    "tag": "2023.8.1-rc1"
                 },
                 "nuget-sources.json"
             ]
