@@ -52,7 +52,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/NickvisionApps/Denaro.git",
-                    "tag": "2023.9.1-rc1"
+                    "commit": "7d8433cb467351c3f09b87a85db06899009fbc5b"
                 },
                 "nuget-sources.json"
             ]
