@@ -17,6 +17,7 @@
         "--socket=wayland",
         "--device=dri",
         "--share=ipc",
+        "--share=network",
         "--filesystem=home"
     ],
     "cleanup":[
@@ -28,6 +29,9 @@
         {
             "name": "blueprint-compiler",
             "buildsystem": "meson",
+            "cleanup": [
+                "*"
+            ],
             "sources": [
                 {
                     "type": "git",
@@ -48,7 +52,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/NickvisionApps/Denaro.git",
-                    "commit": "a8c309016939911a6f1592c75362c4b851b2b849"
+                    "commit": "7d8433cb467351c3f09b87a85db06899009fbc5b"
                 },
                 "nuget-sources.json"
             ]
