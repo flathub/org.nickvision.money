@@ -17,6 +17,7 @@
         "--socket=wayland",
         "--device=dri",
         "--share=ipc",
+        "--share=network",
         "--filesystem=home"
     ],
     "cleanup":[
@@ -51,7 +52,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/NickvisionApps/Denaro.git",
-                    "tag": "2023.9.0"
+                    "tag": "2023.9.1"
                 },
                 "nuget-sources.json"
             ]
